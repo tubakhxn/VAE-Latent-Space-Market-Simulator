@@ -1,6 +1,7 @@
 
 ## Dev/Creator
 
+<img width="2968" height="1648" alt="image" src="https://github.com/user-attachments/assets/05aee309-8ba3-4cdd-8469-30c8c6c08c09" />
 
 
 ## Project Overview
@@ -23,5 +24,4 @@ This project is a Variational Autoencoder (VAE) Latent Space Market Simulator. I
 
 ---
 
-_No emojis were used in this README as requested._
 
